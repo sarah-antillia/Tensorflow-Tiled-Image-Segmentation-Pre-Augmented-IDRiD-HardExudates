@@ -1,5 +1,6 @@
 <h2>Tensorflow-Tiled-Image-Segmentation-Pre-Augmented-IDRiD-HardExudates (2025/01/28)</h2>
-
+Sarah T. Arai<br> 
+Software Laboratory antillia.com<br><br>
 This is the second experiment of Tiled Image Segmentation for IDRiD-HardExudates 
  based on 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, 
@@ -392,45 +393,50 @@ python ../../../src/TensorflowUNetTiledInferencer.py ./train_eval_infer.config
 References
 </h3>
 <b>1. IDRiD: Diabetic Retinopathy – Segmentation and Grading Challenge</b><br>
-Prasanna Porwal
-, 
-Samiksha Pachade, Manesh Kokare, Girish Deshmukh, Jaemin Son, Woong Bae, Lihong Liu<br>
-, Jianzong Wang, Xinhui Liu, Liangxin Gao, TianBo Wu, Jing Xiao, Fengyan Wang<br>, 
-Baocai Yin, Yunzhi Wang, Gopichandh Danala, Linsheng He, Yoon Ho Choi, Yeong Chan Lee<br>
-, Sang-Hyuk Jung,Fabrice Mériaudeau<br>
+Prasanna Porwal, Samiksha Pachade, Manesh Kokare, Girish Deshmukh, Jaemin Son, Woong Bae, Lihong Liu,<br>
+Jianzong Wang, Xinhui Liu, Liangxin Gao, TianBo Wu, Jing Xiao, Fengyan Wang, <br
+Baocai Yin, Yunzhi Wang, Gopichandh Danala, Linsheng He, Yoon Ho Choi, Yeong Chan Lee,<br>
+Sang-Hyuk Jung,Fabrice Mériaudeau<br>
 <br>
-
 DOI:<a href="https://doi.org/10.1016/j.media.2019.101561">https://doi.org/10.1016/j.media.2019.101561</a>
-
 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519301033">
 https://www.sciencedirect.com/science/article/abs/pii/S1361841519301033</a>
 <br>
 <br>
+<b>2. RMCA U-net: Hard exudates segmentation for retinal fundus images</b><br>
+Yinghua Fu, Ge Zhang, Xin Lu, Honghan Wu, Dawei Zhang<br>
+<a href="https://doi.org/10.1016/j.eswa.2023.120987">
+https://doi.org/10.1016/j.eswa.2023.120987
+</a>
+<br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014896">
+https://www.sciencedirect.com/science/article/abs/pii/S0957417423014896</a>
+<br>
+<br>
 
-<b>2. Tensorflow-Tiled-Image-Segmentation-IDRiD-HardExudates </b><br>
+<b>3. Tensorflow-Tiled-Image-Segmentation-IDRiD-HardExudates </b><br>
 Toshiyuki Arai @antillia.com<br>
 <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-IDRiD-HardExudates">
 https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-IDRiD-HardExudates
 </a>
 <br>
 <br>
-<b>3. Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer</b><br>
+<b>4. Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer</b><br>
 Toshiyuki Arai @antillia.com<br>
 <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer">
 https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer
 </a>
 <br>
 <br>
-<b>4. Tensorflow-Tiled-Image-Segmentation-Augmented-MultipleMyeloma</b><br>
+<b>5. Tensorflow-Tiled-Image-Segmentation-Augmented-MultipleMyeloma</b><br>
 Toshiyuki Arai @antillia.com<br>
 <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-MultipleMyeloma">
 https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-MultipleMyeloma
 </a>
 <br>
 <br>
-
-<b>5. Tiled-ImageMask-Dataset-Breast-Cancer</b><br>
+<b>6. Tiled-ImageMask-Dataset-Breast-Cancer</b><br>
 Toshiyuki Arai @antillia.com<br>
 <a href="https://github.com/sarah-antillia/Tiled-ImageMask-Dataset-Breast-Cancer">
 https://github.com/sarah-antillia/Tiled-ImageMask-Dataset-Breast-Cancer
